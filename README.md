@@ -1,6 +1,6 @@
 # Hey, I'm Juan Medeiros 👋
 
-I'm a **Senior UX/UI Designer** with 13 years of experience — and 
+I'm a **Senior Product Designer** over 10 years of experience — and 
 a background that most designers don't have: I've actually written 
 the code.
 
