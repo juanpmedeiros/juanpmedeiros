@@ -1,23 +1,45 @@
-## Olá! Eu sou o Juan Pedro Medeiros 👨‍💻
+# Hey, I'm Juan Pedro 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juanpmedeiros/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pedro-medeiros-a5272937/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedro.med@gmail.com)
+I'm a **Senior UX/UI Designer** with 13 years of experience — and 
+a background that most designers don't have: I've actually written 
+the code.
 
-![Juan P. Medeiros GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpmedeiros&show_icons=true&theme=tokyonight)
+I started building CMS platforms and evolved into designing complex 
+Management Systems used by thousands of people across Brazil. 
+Along the way, I picked up C#, .NET, and Azure — not to become a 
+developer, but to **speak the same language as the engineers** I 
+work with.
 
-<br/>
+Today, I use **AI as a frontend tool** — combining Figma design 
+systems with React, TypeScript and Claude/Cursor to ship interfaces 
+that are not just beautiful, but production-ready.
 
-## Tecnologias que eu uso no meu dia
+## What makes me different
 
-<div style = "display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/>
+- 🎨 **Design Systems at scale** — built to grow with the product
+- 🧠 **Developer fluency** — I debug, read code and think in logic  
+- 🤝 **Engineering collaboration** — I solve problems before they hit the code  
+- ⚡ **AI-powered delivery** — from wireframe to deployed frontend, faster
 
-## Currículo completo para download:
-- [Download do arquivo em PDF](https://www.dropbox.com/s/8r3p9r5viejb2c3/CURRICULO.pdf?dl=0)
+## Currently working with
+
+**Design:** Figma · Design Systems · Prototyping · UX Research  
+**Frontend:** React · TypeScript · Tailwind CSS · Vite  
+**AI Tools:** Claude · Cursor · Figma Make  
+**Dev background:** C# · .NET · Azure · Git  
+
+## Selected projects
+
+🔤 **VocabRecall** — Flashcard app for language learning.  
+Designed in Figma, built with React + TypeScript, deployed on Vercel.  
+Full design-to-code workflow powered by AI.
+
+🏫 **School Management System** — UX/UI for a nationwide platform  
+used by educational institutions across Brazil.
+
+🚗 **Vehicle Tracking System** — Interface design + frontend logic  
+for real-time data visualization.
+
+---
+
+💼 [LinkedIn](www.linkedin.com/in/juan-pedro-medeiros) · 📬 [Email](mailto:jpedro.med@gmail.com) · 🌐 [Portfolio](#)
