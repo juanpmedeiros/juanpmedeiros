@@ -1,4 +1,4 @@
-# Hey, I'm Juan Pedro 👋
+# Hey, I'm Juan Medeiros 👋
 
 I'm a **Senior UX/UI Designer** with 13 years of experience — and 
 a background that most designers don't have: I've actually written 
